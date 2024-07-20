@@ -1,1 +1,3 @@
 .venv
+raw_dataset
+cutmix_images
