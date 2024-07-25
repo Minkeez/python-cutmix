@@ -2,6 +2,8 @@
 raw_dataset
 raw_dataset_2
 cutmix_images
+cutmix_image_sharpened
+cutmix_gaussian_noise
 my_data
 my_data_1
 rawdata_1
@@ -9,3 +11,4 @@ test_cutmix
 test_cutmix_1
 sharpened_data
 noisy_data
+cutmix_rawdata_1
